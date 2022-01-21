@@ -4,7 +4,7 @@
 }
 
 .swiper-slide {
-  height: 550px;
+  height: 250px;
   overflow: hidden;
 }
 
@@ -663,7 +663,7 @@ img {
   display: block;
   margin-left: 5px;
   margin-right: 10px;
-  margin-top: 30px;
+  margin-top: 15px;
 }
 
 .sub-title {
@@ -1360,10 +1360,6 @@ img {
 
 .adjust_space {
   margin-bottom: 5px;
-}
-
-#time {
-  font-size: 5px;
 }
 
 @media (min-width: 480px) {
