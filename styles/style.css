@@ -895,6 +895,7 @@ img {
 }
 
 .example {
+  font-family: "BIZ UDGothic";
   margin-bottom: 0px;
   display: -webkit-box;
   display: -ms-flexbox;
