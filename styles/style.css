@@ -814,7 +814,7 @@ img {
 .footer {
   padding-top: 20px;
   background-image: url(../images/email-pattern.png);
-  margin-bottom: 80px;
+  margin-bottom: 60px;
   padding: auto;
 }
 
@@ -968,7 +968,6 @@ img {
   height: 1300px;
   background-image: url(../images/hip-square.png);
   margin-top: 20px;
-  margin-bottom: 20px;
 }
 
 .reason__title {
