@@ -250,7 +250,7 @@ img {
 }
 
 .example{
-    background-image: url(../images/trees.png);
+    //background-image: url(../images/trees.png);
     margin-bottom: 0px; 
     display: flex;
     //@extend .content-width;
@@ -300,7 +300,33 @@ img {
         padding-left:20px;
     }
 
+    &__title2{
+        padding-left: 10px;
+        background-color: yellow;
+        font-weight: bold;
+    }
 
+    &__subtitle1{
+        font-size: 17px;
+    }
+
+    &__subtitle2{
+        font-size: 18px;
+    }
+
+    &__images{
+        margin-top: 5px;
+        padding: 15px;
+    }
+
+.prefecture1{
+    color: red;
+
+}
+
+.prefecture2{
+    color: blue
+}
     
 }
 
