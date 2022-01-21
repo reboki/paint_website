@@ -947,6 +947,7 @@ img {
 }
 
 .example__ul {
+  text-align: start;
   margin-bottom: 0;
   padding-left: 20px;
 }
@@ -980,7 +981,21 @@ img {
 }
 
 .example2 {
+  padding: 10px;
+  font-family: "UD Digi Kyokasho NK-B";
   background-color: #91d04f;
+  text-align: center;
+}
+
+.example2__title {
+  color: white;
+  font-size: 30px;
+  border-bottom: dashed;
+}
+
+.example2__para {
+  color: white;
+  font-size: 15px;
 }
 
 .work__inner {
