@@ -962,16 +962,16 @@ img {
 }
 
 .example__subtitle1 {
-  font-size: 17px;
+  font-size: 18px;
 }
 
 .example__subtitle2 {
-  font-size: 18px;
+  font-size: 19px;
 }
 
 .example__images {
   margin-top: 5px;
-  padding: 15px;
+  padding: 15px 15px 0 15px;
 }
 
 .example .prefecture1 {
