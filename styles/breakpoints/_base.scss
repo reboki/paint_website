@@ -261,7 +261,7 @@ img {
         margin-top: 20px;
         margin-bottom: 20px;
         display: flex;
-        box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5);
+        //box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5);
         
 
     }
@@ -269,7 +269,7 @@ img {
     &__box2{
         margin-bottom: 50px;
         display: flex;
-        box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5);
+        //box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5);
     }
 
 
@@ -302,9 +302,11 @@ img {
     }
 
     &__title2{
-        padding-left: 10px;
+    //    padding-left: 10px;
+        padding: 10px 0px 0 2px;
         background-color: yellow;
         font-weight: bold;
+        line-height: 1.2;
     }
 
     &__subtitle1{
@@ -329,6 +331,10 @@ img {
     color: blue
 }
     
+}
+
+.example2{
+    background-color: #98d454
 }
 
 .work{

@@ -912,8 +912,6 @@ img {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-shadow: 0 10px 25px 0 rgba(0, 0, 0, 0.5);
-          box-shadow: 0 10px 25px 0 rgba(0, 0, 0, 0.5);
 }
 
 .example__box2 {
@@ -921,8 +919,6 @@ img {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-shadow: 0 10px 25px 0 rgba(0, 0, 0, 0.5);
-          box-shadow: 0 10px 25px 0 rgba(0, 0, 0, 0.5);
 }
 
 .example__pic {
@@ -956,9 +952,10 @@ img {
 }
 
 .example__title2 {
-  padding-left: 10px;
+  padding: 10px 0px 0 2px;
   background-color: yellow;
   font-weight: bold;
+  line-height: 1.2;
 }
 
 .example__subtitle1 {
@@ -980,6 +977,10 @@ img {
 
 .example .prefecture2 {
   color: blue;
+}
+
+.example2 {
+  background-color: #98d454;
 }
 
 .work__inner {
