@@ -440,12 +440,12 @@ a.btn-pc-sp {
 
 a.btn-pc-sp--contact {
   color: #fff;
-  background: #d20010;
+  background: #f59dac;
 }
 
 a.btn-pc-sp--tel {
   color: #fff;
-  background: #094;
+  background: orangered;
 }
 
 .fa-position-right {
@@ -598,6 +598,11 @@ a.btn-pc-sp--tel {
           transition-delay: 140ms;
   -webkit-transform: translateY(-11px) rotate(-135deg);
           transform: translateY(-11px) rotate(-135deg);
+}
+
+.button-size {
+  width: 20px;
+  height: auto;
 }
 
 /******************************************************************
