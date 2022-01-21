@@ -998,6 +998,16 @@ img {
   font-size: 15px;
 }
 
+.example2__para2 {
+  color: white;
+  font-size: 14px;
+  text-align: start;
+}
+
+.example2__para3 {
+  margin: 0;
+}
+
 .work__inner {
   margin-top: 20px;
 }
@@ -1023,6 +1033,12 @@ img {
   text-shadow: #0058a8 0px 0px 6px;
   height: 50%;
   margin-bottom: 10px;
+}
+
+.reason__title2 {
+  padding-top: 20px;
+  text-align: center;
+  font-size: 25px;
 }
 
 .reason__span {

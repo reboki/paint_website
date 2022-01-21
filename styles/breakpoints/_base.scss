@@ -350,7 +350,19 @@ img {
         color: white;
         font-size: 15px;
     }
+
+    &__para2{
+        color: white;
+        font-size: 14px;
+        text-align: start;
+    }
+
+    &__para3{
+        margin: 0;
+    }
 }
+
+    
 
 .work{
     &__inner{
@@ -384,6 +396,12 @@ img {
         text-shadow: rgb(0, 88, 168) 0px 0px 6px;
         height: 50%;
         margin-bottom: 10px;
+    }
+
+    &__title2{
+        padding-top: 20px;
+        text-align: center;
+        font-size: 25px;
     }
 
     &__span{
