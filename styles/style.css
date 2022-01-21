@@ -4,7 +4,7 @@
 }
 
 .swiper-slide {
-  height: 250px;
+  height: 420px;
   overflow: hidden;
 }
 
@@ -891,7 +891,7 @@ img {
 
 .example {
   background-image: url(../images/trees.png);
-  margin-bottom: 50px;
+  margin-bottom: 0px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
