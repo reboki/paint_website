@@ -272,7 +272,7 @@ img {
     }
 
     &__box2{
-        margin-bottom: 20px;
+        //margin-bottom: 20px;
         display: flex;
         flex-direction: column;
         //box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5);
@@ -627,6 +627,19 @@ img {
     z-index: 200;
     line-height: 1;
 
+}
+
+.flow{
+    &__content{
+        background-image: url(../images/background.png);
+    }
+
+    &__para{
+        position: relative;
+        top:20px;
+        margin: 0;
+
+    }
 }
 
 .flow_pic{

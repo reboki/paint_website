@@ -923,7 +923,6 @@ img {
 }
 
 .example__box2 {
-  margin-bottom: 20px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1282,6 +1281,16 @@ img {
           align-items: center;
   z-index: 200;
   line-height: 1;
+}
+
+.flow__content {
+  background-image: url(../images/background.png);
+}
+
+.flow__para {
+  position: relative;
+  top: 20px;
+  margin: 0;
 }
 
 .flow_pic {
