@@ -906,6 +906,10 @@ img {
           flex-direction: column;
 }
 
+.example__box {
+  padding: 15px;
+}
+
 .example__box1 {
   margin-top: 20px;
   margin-bottom: 20px;
@@ -942,7 +946,7 @@ img {
 .example__content {
   background-color: white;
   padding: 10 0 10 10;
-  font-size: 12px;
+  font-size: 15px;
   font-weight: bold;
   -webkit-box-flex: 1;
       -ms-flex: 1;
@@ -951,6 +955,7 @@ img {
 
 .example__para {
   margin-bottom: 0;
+  font-size: 17px;
 }
 
 .example__ul {

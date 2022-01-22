@@ -257,6 +257,10 @@ img {
     //@extend .content-width;
     flex-direction: column;
 
+    &__box{
+        padding:15px;
+    }
+
     &__box1{
         margin-top: 20px;
         margin-bottom: 20px;
@@ -289,13 +293,14 @@ img {
     &__content{
         background-color: white;
         padding: 10 0 10 10;
-        font-size: 12px;
+        font-size: 15px;
         font-weight: bold;
         flex:1 
     }
 
     &__para{
         margin-bottom: 0;
+        font-size: 17px;
     }
 
     &__ul{
