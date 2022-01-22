@@ -912,13 +912,21 @@ img {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
 }
 
 .example__box2 {
-  margin-bottom: 50px;
+  margin-bottom: 20px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
 }
 
 .example__pic {
@@ -929,12 +937,11 @@ img {
 
 .example__p {
   max-width: 100%;
-  height: 146px;
 }
 
 .example__content {
   background-color: white;
-  padding: 10px;
+  padding: 10 0 10 10;
   font-size: 12px;
   font-weight: bold;
   -webkit-box-flex: 1;
